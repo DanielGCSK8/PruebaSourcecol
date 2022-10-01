@@ -1,6 +1,6 @@
 ﻿using PruebaSourcecol;
 
-class ProgramF
+class Program
 {
 
     static void Main(string[] args)
